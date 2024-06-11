@@ -1,0 +1,2 @@
+hapikey:
+	ea457b67-4035-4abd-8e63-3eb4ee3abd3d
